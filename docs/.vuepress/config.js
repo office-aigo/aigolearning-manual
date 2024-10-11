@@ -45,7 +45,7 @@ module.exports = {
         algolia: {},
         nav: [{ text: "Guide", link: "/article/", ariaLabel: "Guide" }],
         sidebar: {
-          "/article/": ["Admin", "Student&Parent", "Teacher"],
+          "/article/": ["Admin"],
         },
       },
     },

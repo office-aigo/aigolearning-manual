@@ -57,31 +57,29 @@
 
 ## #3 Courses/Class Setup
 
-     For steps, refer to `1. Course setting:` in the directory, which mainly sets the course system, the school calendar setting, the creation of new semester classes, and finally generates the schedule page.
-
-     The order of operation is `Courses setup` → `Calendar setup` → `Class setup`
+  - For steps, refer to `1. Course setting:` in the directory, which mainly sets the course system, the school calendar setting, the creation of new semester classes, and finally generates the schedule page.
+  - The order of operation is `Courses setup` → `Calendar setup` → `Class setup`
     
 ## #4 Teacher/Student Setup
 
-     To set the teacher, first enter the teacher information into the system. Refer to `2.1  Teacher setup` for steps. Then enter the teacher into the specific class. Refer to `3.1  Teacher-into-Class`. This way students can see the teacher information on the schedule page when they register.
-
-     If necessary, you can input student information into the system and directly help students generate an account. Refer to `2.2  Student setup`. If no entry is required, students can register their accounts by themselves.
+  - To set the teacher, first enter the teacher information into the system. Refer to `2.1  Teacher setup` for steps. Then enter the teacher into the specific class. Refer to `3.1  Teacher-into-Class`. This way students can see the teacher information on the schedule page when they register.
+  - If necessary, you can input student information into the system and directly help students generate an account. Refer to `2.2  Student setup`. If no entry is required, students can register their accounts by themselves.
     
 ## #5: Discount setting
 
-     If there is a need for registration discounts, you can set a discount in the system before letting the student register. Refer to `4. Tuition/Discount Management:` for steps.
+  - If there is a need for registration discounts, you can set a discount in the system before letting the student register. Refer to `4. Tuition/Discount Management:` for steps.
 
 ## #6: Tuition confirmation
 
-     After the student registration, if a student has paid the tuition fee, go to the system to confirm the receipt of the payment. Refer to `4. Tuition/Discount Management:` 
+  - After the student registration, if a student has paid the tuition fee, go to the system to confirm the receipt of the payment. Refer to `4. Tuition/Discount Management:` 
 
 ## #7: Assign Zoom/classroom before class
 
-     Zoom/classroom needs to be assigned before class. Please refer to `5.Classroom Management`.
+  - Zoom/classroom needs to be assigned before class. Please refer to `5.Classroom Management`.
 
 ## #8: Send class information to the student/teacher
 
-     Before class, the class information should be sent to the students and teachers in the class. For details, refer to `1.4  Class Schedule`.
+  - Before class, the class information should be sent to the students and teachers in the class. For details, refer to `1.4  Class Schedule`.
 
 
 ## + Topics
